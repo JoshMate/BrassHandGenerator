@@ -11,12 +11,8 @@
         "version": "7.0.0"
       }
     ],
-    "additionalProbingPaths": [
-      "C:\\Users\\joshw\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\joshw\\.nuget\\packages"
-    ],
     "configProperties": {
-      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
     }
   }
 }

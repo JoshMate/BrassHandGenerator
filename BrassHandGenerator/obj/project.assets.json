@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandProject\\BrassHandGenerator\\BrassHandGenerator.csproj",
+      "projectUniqueName": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandGenerator\\BrassHandGenerator\\BrassHandGenerator.csproj",
       "projectName": "BrassHandGenerator",
-      "projectPath": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandProject\\BrassHandGenerator\\BrassHandGenerator.csproj",
+      "projectPath": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandGenerator\\BrassHandGenerator\\BrassHandGenerator.csproj",
       "packagesPath": "C:\\Users\\joshw\\.nuget\\packages\\",
-      "outputPath": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandProject\\BrassHandGenerator\\obj\\",
+      "outputPath": "D:\\GoogleDrive\\Projects\\Code\\C#\\BrassHandGenerator\\BrassHandGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshw\\AppData\\Roaming\\NuGet\\NuGet.Config",
